@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 
-print("作者-molisang")
+print("作者-molisang 项目地址https://github.com/lijirou12/HeShiDa-")
 
 # 获取本机的IPv4地址
 hostname = socket.gethostname()
